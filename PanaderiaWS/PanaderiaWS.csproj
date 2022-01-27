@@ -200,7 +200,10 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+<<<<<<< HEAD
     <Compile Include="App_Start\SwaggerConfig.cs" />
+=======
+>>>>>>> c9634c55a2889122bb6f17a6d1473691187f58f4
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Areas\HelpPage\ApiDescriptionExtensions.cs" />
     <Compile Include="Areas\HelpPage\App_Start\HelpPageConfig.cs" />
@@ -326,6 +329,15 @@
     <Content Include="Scripts\jquery-3.4.1.slim.min.map" />
     <Content Include="Scripts\jquery-3.4.1.min.map" />
   </ItemGroup>
+<<<<<<< HEAD
+=======
+  <ItemGroup>
+    <ProjectReference Include="..\Panaderia.BL\Panaderia.BL.csproj">
+      <Project>{667a543b-ce41-4ec9-ba40-29cd3a490de9}</Project>
+      <Name>Panaderia.BL</Name>
+    </ProjectReference>
+  </ItemGroup>
+>>>>>>> c9634c55a2889122bb6f17a6d1473691187f58f4
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

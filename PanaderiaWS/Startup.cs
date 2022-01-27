@@ -15,9 +15,13 @@ namespace PanaderiaWS
             app.CreatePerOwinContext(PanaderiaContext.Create);
             
         }
+<<<<<<< HEAD
 
 
 
     }
 
+=======
+    }
+>>>>>>> c9634c55a2889122bb6f17a6d1473691187f58f4
 }

@@ -23,9 +23,15 @@ namespace Panaderia.BL.DTOs
         public float ValorTotal { get; set; }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
        // public ClienteDTO Cliente { get; set; }
         //public MetodoPagoDTO MetodoPago { get; set; }
         //public ProductoDTO Producto { get; set; }
+=======
+        public ClienteDTO Cliente { get; set; }
+        public MetodoPagoDTO MetodoPago { get; set; }
+        public ProductoDTO Producto { get; set; }
+>>>>>>> c9634c55a2889122bb6f17a6d1473691187f58f4
 =======
         public ClienteDTO Cliente { get; set; }
         public MetodoPagoDTO MetodoPago { get; set; }
