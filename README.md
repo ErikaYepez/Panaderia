@@ -18,7 +18,7 @@ Acceso a datos -> Entity Framework<br />
 Para realizar pruebas de cada servicio de utilizó <b>POSTMAN</b>
 <br />
 
-<b>Publicacion Local</b>
+<b>Servidor Local</b>
 
 <img src="./local.JPG"  height = "400" alt="WS Local" />
 <br />
