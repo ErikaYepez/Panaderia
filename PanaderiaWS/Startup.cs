@@ -1,5 +1,9 @@
-﻿using Owin;
+﻿using Microsoft.Owin;
+using Owin;
+using System;
+using System.Threading.Tasks;
 using Panaderia.BL.Data;
+
 
 namespace PanaderiaWS
 {
@@ -9,7 +13,7 @@ namespace PanaderiaWS
         {
             //Configura dbContext para ser usado por request como unica instancia
             app.CreatePerOwinContext(PanaderiaContext.Create);
-
+            
         }
 
 
