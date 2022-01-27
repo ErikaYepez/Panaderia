@@ -17,3 +17,9 @@ Contorollers: Servicios REST<br/>
 Acceso a datos -> Entity Framework<br />
 Para realizar pruebas de cada servicio de utilizó <b>POSTMAN</b>
 <br />
+<n>Publicacion Local</n>
+<img src="./local.JPG"  height = "400" alt="WS Local" />
+<br />
+Para su posterior uso los servicios web se alojaron localmente en IIS, para su ejecución es necesario habilitar el mismo mediante el panel de control. Una vez habilitado en un navegador color la siguiente URL:
+http://localhost/PanaderiaWS/.
+Ademas se uso <b> SWAGGER </b> para un mejor manejo de los servicios sin necesidad de utilizar un tercero como POSTMAN. Para ejecutar Swagger en el servidor local usar la siguiente URL: http://localhost/PanaderiaWS/swagger
