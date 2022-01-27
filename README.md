@@ -31,4 +31,8 @@ Ademas se uso <b> SWAGGER </b> para un mejor manejo de los servicios sin necesid
 <b>Base de datos</b>
 </br>
 <img src="./bd.JPG"  height = "300" alt="BD" /></br>
-Se adjunta backup.
+Se adjunta backup.</br>
+
+<b>Mejorar futuras</b></br>
++ Manejo de tokens de autenticación.
++ Diseño de base de datos para manejo de usuarios y módulos del sistema.
