@@ -29,5 +29,6 @@ Ademas se uso <b> SWAGGER </b> para un mejor manejo de los servicios sin necesid
 </br>
 
 <b>Base de datos</b>
-<img src="./bd.JPG"  height = "400" alt="BD" /></br>
+</br>
+<img src="./bd.JPG"  height = "300" alt="BD" /></br>
 Se adjunta backup.
